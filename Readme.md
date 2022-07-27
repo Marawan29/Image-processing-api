@@ -1,5 +1,3 @@
-Desciption: First project in advanced web development scholarship bt egFWD.
-
 Prerequirments:
 	you should have node and npm installed on your device;
 
